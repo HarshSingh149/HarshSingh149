@@ -64,13 +64,13 @@ harsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshSingh149&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshSingh149&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=1800" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh149&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=6" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSingh149&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=6&cache_seconds=1800" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HarshSingh149&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF6B6B&fire=FF6B6B&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=HarshSingh149&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF6B6B&fire=FF6B6B&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
@@ -80,20 +80,9 @@ harsh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarshSingh149&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshSingh149&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
-
----
-
-## 🎯 2025 Roadmap
-
-```
-🔴  Q1  ──────►  Python Mastery + NumPy/Pandas
-🟠  Q2  ──────►  ML Algorithms from scratch
-🟡  Q3  ──────►  Deep Learning + CNNs + NLP
-🟢  Q4  ──────►  Real-world Projects + Internship Hunt
-```
 
 ---
 
@@ -103,8 +92,8 @@ harsh = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsingh14971)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsingh14971@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/HarshSingh149)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/HarshSingh149)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshsingh14971)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshsingh14971)
 
 </div>
 
