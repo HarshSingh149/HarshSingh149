@@ -76,6 +76,28 @@ harsh = {
 
 ---
 
+## 🔍 Profile Deep Dive
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshSingh149&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshSingh149&theme=tokyonight" height="180" alt="Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshSingh149&theme=tokyonight" height="180" alt="Repos Per Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshSingh149&theme=tokyonight" height="180" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshSingh149&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time (IST)"/>
+
+</div>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
